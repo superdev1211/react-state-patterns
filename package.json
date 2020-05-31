@@ -1,0 +1,14 @@
+{
+  "name": "react-state-patterns",
+  "version": "1.0.0",
+  "description": "State management patterns for React: Context, Zustand, and custom hooks",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest --coverage",
+    "lint": "eslint src/"
+  },
+  "keywords": [],
+  "author": "superdev1211",
+  "license": "MIT"
+}
